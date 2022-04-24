@@ -8,11 +8,11 @@ function Skills() {
     <>
       <div className="skills">
         <h2 className="h2">Compétences</h2>
-        <Skill title="HTML" rating="5" />
+        <Skill title="HTML" rating="4" />
         <Skill title="CSS" rating="4" />
         <Skill title="JAVASCRIPT" rating="4" />
         <Skill title="REACT" rating="4" />
-        <Skill title="NODE" rating="3" />
+        {/* <Skill title="NODE" rating="3" /> */}
         <Skill title="RUBY" rating="3" />
         <Skill title="GITHUB" rating="4" />
       </div>

@@ -13,9 +13,9 @@ function Experiences({ datas }) {
           <div className="grid__item">
             <h3 className="grid__title">{item.title}</h3>
             <p className="grid__location">{item.location}</p>
-            {/* <p className="grid__title">{item.title}</p> */}
             <ul className="grid__missions">
               {item.missions?.map((mission) => (
+                // <li className="grid__mission_title">{mission.title}</li>
                 <li className="grid__mission" key={mission.id}>
                   {mission.text}
                 </li>

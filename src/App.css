@@ -30,23 +30,23 @@
 
   /*font*/
   --body-font: "Poppins", "Sans-serif"
-  --h1-font-size: 1.7rem;
-  --h2-font-size: 1.3rem;
-  --h3-font-size: 1.1rem;
-  --h4-font-size: 1rem;
+  --h1-font-size: 1.6rem;
+  --h2-font-size: 1.2rem;
+  --h3-font-size: 1rem;
+  /* --h4-font-size: 1rem; */
 
   /*helpers*/
-  --spacing-1: 0.4rem;
-  --spacing-2: 0.8rem; 
-  --spacing-3: 1.2rem;
-  --spacing-4: 1.5rem;
-  --spacing-5: 2rem;
+  --spacing-1: 0.3rem;
+  --spacing-2: 0.6rem; 
+  --spacing-3: 1rem;
+  --spacing-4: 1.3rem;
+  --spacing-5: 1.8rem;
 
 }
 
 body {
   font-family: "Poppins", "Sans-serif";
-  font-weight: 200;
+  font-weight: 300;
   color: #333333;
   background-color: #ffffff;
 

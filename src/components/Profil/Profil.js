@@ -5,10 +5,10 @@ function Profil() {
     <div className="profil mb5">
       <h2 className="h2">Profil</h2>
       <p>
-        Je suis Mainieri Quentin, curieux de nouvelles choses à découvrir,
-        j'aime me lancer dans de nouvelles expériences. Amoureux de gaming
-        depuis ma tendre enfance, c'est presque donc en toute logique que j'ai
-        décidé de m'orienter dans le milieu du developement web.
+        Je suis Mainieri Quentin, curieux de nouvelles choses à découvrir.
+        Amoureux de gaming depuis ma tendre enfance, c'est presque donc en toute
+        logique que j'ai décidé de m'orienter dans le milieu du developement
+        web.
       </p>
     </div>
   );

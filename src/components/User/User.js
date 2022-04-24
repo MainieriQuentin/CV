@@ -9,7 +9,7 @@ import LocationOnIcon from "@material-ui/icons/LocationOn";
 function User() {
   return (
     <div className="user">
-      <img className="user__avatar" src="./images/avatar.jpg" alt="" />
+      <img className="user__avatar" src="./images/avatar2.jpg" alt="" />
       <h1 className="user__name">MAINIERI Quentin</h1>
       <p className="user__profession">Developpeur Web</p>
       <div className="user__infos">
